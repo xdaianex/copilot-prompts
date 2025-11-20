@@ -1,4 +1,4 @@
-Desafio de Projeto DIO "IA Mentor de Carreira: Descubra Seu Futuro em Tech" do curso "CAIXA - Inteligência Artificial na Prática da DIO"
+Desafio de Projeto DIO "IA Mentor de Carreira: Descubra Seu Futuro em Tech" do curso "CAIXA - Inteligência Artificial na Prática da DIO".
 O desafio consistia em apenas executar o "Agente 1" e depois o "Agente 2".
 Executei no Chat GPT Web.
 
